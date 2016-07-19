@@ -1,0 +1,13 @@
+install.sh
+README.md
+.*_history
+.*.swp
+.cache
+.odbc.ini
+.lesshst
+.ignore
+.npm
+.pip
+.viminfo
+.gradle
+.gradle/caches
